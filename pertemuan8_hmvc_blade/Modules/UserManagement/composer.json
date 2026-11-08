@@ -1,0 +1,1 @@
+{"name":"modules/usermanagement","description":"UserManagement module","type":"laravel-module","autoload":{"psr-4":{"Modules\\UserManagement\\":"app/"}}}

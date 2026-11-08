@@ -1,0 +1,1 @@
+{"name":"modules/pendaftaran","description":"Pendaftaran module","type":"laravel-module","autoload":{"psr-4":{"Modules\\Pendaftaran\\":"app/","Modules\\Pendaftaran\\Database\\Factories\\":"database/factories/"}}}
